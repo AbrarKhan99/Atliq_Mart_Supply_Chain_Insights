@@ -53,4 +53,4 @@ To dive into the world of AtliQ's data-driven journey and explore the insights g
 
 If you have any questions, feedback, or suggestions, feel free to reach out to me at [linkedin](https://www.linkedin.com/in/abrar-khan-57723219b/)
 
-Thank you for your interest in AtliQ Market Data Analytics! Let's uncover the power of data together. 💡📊
+Thank you for your interest in AtliQ Mart Data Analytics! Let's uncover the power of data together. 💡📊
