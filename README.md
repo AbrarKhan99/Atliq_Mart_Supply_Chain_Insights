@@ -23,6 +23,14 @@ To focus our analysis, I selected the following major key metrics that would be 
 - **LIFR (Line Fill Rate):** The proportion of orders filled without any missing items.
 - **VOFR (Volume Fill Rate):** The proportion of total ordered volume fulfilled.
 
+![Screenshot - 1](https://github.com/AbrarKhan99/Atliq_Mart_Supply_Chain_Insights/assets/141503577/badda6f1-f3b3-4a5b-94b2-072dd14f2358)
+
+![Screenshot - 2](https://github.com/AbrarKhan99/Atliq_Mart_Supply_Chain_Insights/assets/141503577/72cbb30e-9d51-442f-9203-10045eaa9683)
+
+![Screenshot - 3](https://github.com/AbrarKhan99/Atliq_Mart_Supply_Chain_Insights/assets/141503577/b86f49fe-4731-48dc-b68c-1eaacb850f92)
+
+![Screenshot - 4](https://github.com/AbrarKhan99/Atliq_Mart_Supply_Chain_Insights/assets/141503577/53ed2e6d-4e04-4780-90a6-14eccd762392)
+
 ## 📝 Learnings and Insights
 
 During the course of this project, I gained valuable insights and knowledge:
